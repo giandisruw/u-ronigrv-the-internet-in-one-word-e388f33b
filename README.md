@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![Rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/giandisruw/u-ronigrv-the-internet-in-one-word-e388f33b/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![Reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/giandisruw/u-ronigrv-the-internet-in-one-word-e388f33b/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+
 # The Internet in One Word — `circus`
 
 Entry for the make.fun bounty **"The Internet in One Word"**
